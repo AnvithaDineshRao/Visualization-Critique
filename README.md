@@ -1,2 +1,3 @@
 # Visualization-Critique
-Critique a poster  
+
+Document here Read more [here](./Assign4-AnvithaDineshRao.docx)
